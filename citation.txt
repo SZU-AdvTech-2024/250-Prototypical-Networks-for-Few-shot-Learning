@@ -1,0 +1,7 @@
+@article{REPO250,
+    author = "Snell, Jake and Swersky, Kevin and Zemel, Richard",
+    journal = "Advances in neural information processing systems",
+    title = "{Prototypical networks for few-shot learning}",
+    volume = "30",
+    year = "2017"
+}
