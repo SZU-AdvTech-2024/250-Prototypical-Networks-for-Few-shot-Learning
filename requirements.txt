@@ -1,0 +1,8 @@
+tqdm~=4.66.6
+numpy~=1.21.6
+torchvision~=0.8.0
+torchnet~=0.0.4
+protonets~=0.0.1
+matplotlib~=3.5.3
+setuptools~=65.6.3
+pillow~=6.2.1
